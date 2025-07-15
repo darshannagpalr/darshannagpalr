@@ -27,8 +27,13 @@ Welcome to my GitHub! I'm a passionate developer constantly exploring new techno
 
 ## 🤝 Let's Connect
 
-- 📧 Email: **darshannagpal3@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/darshan-nagpal)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-darshannagpal3@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:darshannagpal3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darshan%20Nagpal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-nagpal)
+
+</div>
+
 
 ---
 
